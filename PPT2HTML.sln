@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PPT2HTML", "PPT2HTML.csproj", "{F9DBE12F-FF7E-45C4-92EF-4B38D9222926}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibreOfficeLibrary", "LibreOfficeLibrary\LibreOfficeLibrary.csproj", "{272A4F00-9332-4C9D-8A63-DFA05603DEEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9DBE12F-FF7E-45C4-92EF-4B38D9222926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9DBE12F-FF7E-45C4-92EF-4B38D9222926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9DBE12F-FF7E-45C4-92EF-4B38D9222926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9DBE12F-FF7E-45C4-92EF-4B38D9222926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{272A4F00-9332-4C9D-8A63-DFA05603DEEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272A4F00-9332-4C9D-8A63-DFA05603DEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272A4F00-9332-4C9D-8A63-DFA05603DEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272A4F00-9332-4C9D-8A63-DFA05603DEEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CDE8CD9-AFE0-4B6A-8B1E-97712606FC34}
+	EndGlobalSection
+EndGlobal
